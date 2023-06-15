@@ -1,4 +1,16 @@
-## Bem Vindo! me chamo David Dias
+## Bem Vindo! Eu sou David Dias - Dev Front-End React
+
+
+📝- Estudante de Ciências da Computação pela UNICID
+
+✔ - Conclui o Programa Oracle Next Education + Alura (ONE)
+
+✔ - Conclui o Curso CS50 - Introdução a Ciência da Computação de Harvard
+
+✔ - Técnico em Enfermagem (2 anos de experiência) - ETEC Carlos de Campos 
+
+✔ - Técnico em Administração - ETEC Itaquera
+
 
 
 
