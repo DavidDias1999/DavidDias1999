@@ -6,9 +6,7 @@
 
 ✔ - Conclui o Curso CS50 - Introdução a Ciência da Computação de Harvard
 
-✔ - Técnico em Enfermagem (2 anos de experiência) - ETEC Carlos de Campos
-
-✔ - Técnico em Administração - ETEC Itaquera
+📝- Participando do Santander Bootcamp 2023 - Mobile com Flutter
 
 ##
 
