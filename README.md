@@ -6,7 +6,7 @@
 
 ✔ - Conclui o Curso CS50 - Introdução a Ciência da Computação de Harvard
 
-📝- Participando do Santander Bootcamp 2023 - Mobile com Flutter
+✔ - Conclui o Santander Bootcamp 2023 - Mobile com Flutter
 
 ##
 
